@@ -1,0 +1,6 @@
+#!/usr/local/bin/bash
+
+# Program to greet any person given their name
+
+name="Leila"
+echo "Hello ${name}"
